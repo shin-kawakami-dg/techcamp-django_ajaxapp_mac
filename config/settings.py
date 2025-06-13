@@ -79,8 +79,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "ajax_app",
-        "USER": "postgres",
-        "PASSWORD": "admin",
+        "USER": "shin-kawakami",
         "HOST": "localhost",
         "PORT": "5432",
     }
